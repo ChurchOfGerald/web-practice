@@ -1,0 +1,28 @@
+body {
+    font-family:Wingdings;
+    background-color: red;
+    color: #ffffff;
+    margin: 20px;
+    text-align: center;
+}
+
+h1 {
+    background-color: black
+}
+
+
+p, ul, ol, table {
+    line-height: 1.5;
+    text-align: left;
+    max-width: 700px;
+    margin: 0 auto 1em auto;
+}
+
+ul, ol {
+    padding-left: 800px;
+}
+
+table {
+    background-color: brown;
+    margin: 0 auto 10px auto;
+}
